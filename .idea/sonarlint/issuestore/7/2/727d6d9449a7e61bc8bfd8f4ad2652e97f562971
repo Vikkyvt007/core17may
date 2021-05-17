@@ -1,0 +1,34 @@
+
+‹
+java:S4165M"pRemove this useless assignment; "installment_amount" already holds the assigned value along all execution paths.(ØÁ¬Ìøÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âœ°Ìøÿÿÿÿ
+f	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÈ±
+f	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁäÏå
+k	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øü„şÿÿÿÿ
+k	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹…ÍÀüÿÿÿÿ
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÑÅ
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÑÅ
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÑÅ
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÑÅ
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÑÅ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ìãÿ‚ûÿÿÿÿ
+w	java:S116"]Rename this field "installment_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äõ¦šÿÿÿÿÿ
+}	java:S116"iRename this field "original_principal_loan_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¶üB
+|	java:S116"bRename this field "interest_rate_per_annum" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûœ–îüÿÿÿÿ
+	java:S116"lRename this field "total_number_of_payment_in_a_year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê•ßé
+{	java:S116	"aRename this field "number_of_installments" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úŠˆéúÿÿÿÿ
+s	java:S116
+"^Rename this field "rv_at_end_of_tenure" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾›´Ì
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ëŠ‹
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄåÀ™
+Q	java:S125"<This block of commented-out lines of code should be removed.(±ëŸü
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âœ°Ìøÿÿÿÿ
+h	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÅˆ²úÿÿÿÿ
+c	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÈ±
+c	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¥¶Æ
+c	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁäÏå
+h	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡“ø£ÿÿÿÿÿ
+h	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øü„şÿÿÿÿ
+c	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ôˆ
+h	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹…ÍÀüÿÿÿÿ

@@ -1,0 +1,36 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(“Á­í
+E
+java:S3740"/Provide the parametrized type for this generic.(“Á­í
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+F
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð1
+S
+java:S1854"8Remove this useless assignment to local variable "data".(¢ïÜ£þÿÿÿÿ
+P
+java:S1854
+"5Remove this useless assignment to local variable "a".(ÀÞäÚýÿÿÿÿ
+J
+java:S6212
+"/Declare this local variable with "var" instead.(ÀÞäÚýÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(¢ïÜ£þÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ÂÒ¹Á
+E
+java:S6212"/Declare this local variable with "var" instead.(“Á­í
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(¹¬º‰ÿÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(îÐ
+V	java:S125"<This block of commented-out lines of code should be removed.(å†Þçÿÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(Ìö¼
+V	java:S125."<This block of commented-out lines of code should be removed.(áˆ²ƒÿÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.( ˜Çÿüÿÿÿÿ
+A
+java:S1481
+"&Remove this unused "a" local variable.(ÀÞäÚýÿÿÿÿ
+D
+java:S1481")Remove this unused "data" local variable.(¢ïÜ£þÿÿÿÿ
+B
+java:S1481",Remove this unused "pattern" local variable.(ÂÒ¹Á

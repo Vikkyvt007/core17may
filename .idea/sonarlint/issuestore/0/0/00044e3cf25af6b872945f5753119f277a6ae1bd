@@ -1,0 +1,36 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äõ¦šÿÿÿÿÿ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¶üB
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûœ–îüÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê•ßé
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úŠˆéúÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾›´Ì
+S
+java:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(Áİé…
+J
+java:S6212"/Declare this local variable with "var" instead.(ğÛ²¸øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºŠéÚ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(íéûÉ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°ª’
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ü÷Ş şÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ìÈ–şşÿÿÿÿ
+D
+java:S6212&"/Declare this local variable with "var" instead.(ÓİĞ9
+P	java:S125*"<This block of commented-out lines of code should be removed.(ƒ÷<
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(á§Ÿş
+V	java:S1250"<This block of commented-out lines of code should be removed.(ä›í€şÿÿÿÿ
+E
+java:S62124"/Declare this local variable with "var" instead.(ÿğê¨
+C
+java:S19056"(Remove this unnecessary cast to "float".(ÓØÇ•ûÿÿÿÿ
+C
+java:S19057"(Remove this unnecessary cast to "float".(ŸÏ·˜øÿÿÿÿ
+C
+java:S19058"(Remove this unnecessary cast to "float".(µ£Ôûÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(Ÿıœö
+Q	java:S125;"<This block of commented-out lines of code should be removed.(ª©Ÿö
+>
+java:S1905>"(Remove this unnecessary cast to "float".(Ë‘ßú
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(½¥²

@@ -1,0 +1,42 @@
+
+d
+java:S3973+"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+}
+java:S4165O"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(ÚÄ¦òøÿÿÿÿ
+O
+java:S4973"9Use the "equals" method if value comparison was intended.(ÍñÅ¹
+T
+java:S4973"9Use the "equals" method if value comparison was intended.(•¾Îıÿÿÿÿ
+O
+java:S4973"9Use the "equals" method if value comparison was intended.(Ç‘¼ˆ
+T
+java:S4973"9Use the "equals" method if value comparison was intended.(Ğıªüÿÿÿÿ
+J
+java:S1128	"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã
+O
+java:S1128
+"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ
+c
+java:S6202"MReplace this usage of "Integer.class.isInstance()" with "instanceof Integer".(Ÿè¶˜
+a
+java:S6202"KReplace this usage of "String.class.isInstance()" with "instanceof String".(Îß²ò
+c
+java:S6202"MReplace this usage of "Boolean.class.isInstance()" with "instanceof Boolean".(Ü¦‹
+Q	java:S125!"<This block of commented-out lines of code should be removed.(º¶¥à
+f
+java:S6202""KReplace this usage of "Double.class.isInstance()" with "instanceof Double".(èÛ™øşÿÿÿÿ
+W
+java:S1126)"AReplace this if-then-else statement by a single return statement.(€Üã»
+E
+java:S62120"/Declare this local variable with "var" instead.(óØÈ¾
+J
+java:S62122"/Declare this local variable with "var" instead.(Œµ—×ÿÿÿÿÿ
+Q	java:S1254"<This block of commented-out lines of code should be removed.(ü†³¦
+Q	java:S125:"<This block of commented-out lines of code should be removed.(Î“³Œ
+E
+java:S6212U"/Declare this local variable with "var" instead.(ÂœøË
+E
+java:S6212]"/Declare this local variable with "var" instead.(†¹øü
+E
+java:S6212b"/Declare this local variable with "var" instead.(ÅÀ¤
+Q	java:S125g"<This block of commented-out lines of code should be removed.(”ßü

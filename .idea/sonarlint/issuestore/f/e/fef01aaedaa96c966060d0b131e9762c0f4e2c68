@@ -1,0 +1,8 @@
+
+|
+java:S4165$"aRemove this useless assignment; "ltv" already holds the assigned value along all execution paths.(”Ô‹áùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë„ü
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜§ì
+s	java:S116"YRename this field "property_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄûÈşÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üô¢½
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë„ü
